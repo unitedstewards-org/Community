@@ -32,9 +32,33 @@ These are discussion concepts, not adopted organizational decisions:
   include straightforward financial-assistance workflows for community
   stewards and recordkeeping for small businesses. These are exploratory
   examples, not approved features or commitments.
+- **Third proof of concept:** The third iteration explores locally controlled
+  LLCs that are independent from a sponsoring organization. In this concept,
+  UnitedStewards.org would provide charter templates and certify local
+  entities; Sharealedger Services would offer account, bookkeeping, tax, and
+  technical services; and Sharealedger.org would make software available under
+  an open-source license. Local members would retain authority over their
+  entity and its assets, with a management board, professional treasurer, and
+  spiritual advisor in distinct roles. This is a proposed division of
+  responsibilities, not an operating structure or an endorsement of any
+  particular legal form.
 
 The LLC governance model and the 501(d) concept are separate alternatives; no
 entity form or relationship between them has been selected.
+
+The third-iteration materials note that a 501(d) structure could be complex
+and may require an IRS determination, while a standard LLC could be explored.
+The iteration proposes identifying pilot participants, preparing and
+registering organizational documents, conducting limited transactions, and
+evaluating the results. These are possible next steps, not completed actions;
+any entity, tax treatment, and governance arrangement would require qualified
+professional review.
+
+## Source documents
+
+- [Third proof-of-concept iteration](<Sharealedger and FO 3rd.pdf>)
+- [Shared Ledgers, Fast Offering, and Social Commerce paper (PDF)](<Shared Ledgers and Fast Offering and Social Commerce Final.pdf>)
+- [Shared Ledgers, Fast Offering, and Social Commerce paper (Word)](<Shared Ledgers and Fast Offering and Social Commerce Final.docx>)
 
 ## Questions to resolve
 
